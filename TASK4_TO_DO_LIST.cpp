@@ -13,7 +13,7 @@ int main() {
         cout << "3. Display Tasks\n";
         cout << "4. Quit\n";
         cout<<"========================"<<endl;
-        cout << "Enter your choice: ";
+        cout << "Enter your choice from above: ";
 
         int choice;
         cin >> choice;
